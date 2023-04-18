@@ -1,0 +1,12 @@
+
+.main {
+  position: absolute;
+  width: 1440px;
+  height: 1036px;
+  left: 0px;
+  top: 237px;
+
+  background: #F9FAFC;
+  border-top: 1px solid #C6C7CB;
+  border-bottom: 1px solid #C6C7CB;
+}
